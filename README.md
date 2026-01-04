@@ -3,7 +3,7 @@
 
 
 - 👨‍💻 Developer, foco em backend e Banco de dados.
-- 📘 Estudando: Backend com foco em Java
+- 📘 Estudando: Lógica de programação e  Backend com foco em Java
 -  🛜 Tecnologias:  java | JavaScript  | HTML  | CSS  | Git & GitHub  
 -  🚀 Disciplina, contância e prática através de projetos.
   
